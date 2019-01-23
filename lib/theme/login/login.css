@@ -1,0 +1,14 @@
+.con_login{height: auto;padding: 0 0.15rem;}
+.login_title{width:100%;height: 1.1rem;line-height: 1.1rem;font-size: 0.2rem;text-align: center;}
+.username{width:100%;height: 0.43rem;line-height: 0.44rem;border-bottom: 1px solid #ccc;}
+.username input{border: 0;font-size: 0.15rem;width: 100%;}
+.pass{width:100%;height: 0.43rem;line-height: 0.44rem;border-bottom: 1px solid #ccc;margin-bottom: 0.3rem;}
+.pass input{border: 0;font-size: 0.15rem;}
+.pass-find{float: right;}
+.pass-find a{color: #5d5d5d;}
+.loginbutton{width:100%;height: 0.4rem;line-height: 0.4rem;text-align: center;}
+.another{width:100%;height:0.34rem;line-height: 0.34rem;}
+.phonepass{text-align: left;float: left;}
+.phonepass a{font-size: 0.15rem;color:#5d5d5d;}
+.outphonelogin{text-align: right;float: right;}
+.outphonelogin a{font-size: 0.15rem;color:#5d5d5d;}

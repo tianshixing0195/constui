@@ -1,0 +1,35 @@
+header{
+    height:50px;
+    background-color: rgba(255,255,255,0);
+}
+.con-input{
+    height: 30px;
+    margin-top: 10px;
+    border: 0;
+    padding-left: 10px;
+}
+.box{
+    background-color: #fff;
+    display: flex;
+    height: 40px;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+}
+.box span{
+    display: block;
+    width: 20px;
+    height: 20px;
+}
+.bg-gray{
+    background-color: #ccc;
+}
+.bg-white{
+    background-color: rgba(255,255,255,1);
+}
+.bg-red{
+    background-color: #f00;
+}
+.bg-danger{
+    background-color: #f60;
+}

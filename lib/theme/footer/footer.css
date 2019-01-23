@@ -1,0 +1,50 @@
+.con-footer > a{
+    text-align: center;
+    flex: 1;
+    height: .5rem;
+    display: inline-block;
+}
+.box{
+    text-align: center;
+    flex: 1;
+    height: .5rem;
+}
+
+.iconfont{
+    display: inline-block;
+    font-size: .25rem;
+    margin: .05rem auto 0;
+    width: .25rem;
+    height: .25rem;
+    color: #444;
+}
+.box span{
+    color: #676767;
+    display: block;
+}
+.kong{
+    font-size: 12px;
+    line-height: 1.5;
+}
+
+.con-footer>li{
+    flex: 1;
+    height: 100%;
+    padding-top: 0.07rem;
+}
+.con-footer>li a{
+    width: 100%;
+    height: 0.25rem;
+    display: inline-block;
+}
+.con-footer>li a img{
+    width: 0.2rem;
+    height: 0.2rem;
+    margin: 0 auto;
+}
+.con-footer>li a p{
+    text-align: center;
+    height: 0.25rem;
+    font-size: 12px;
+    line-height: 0.25rem;
+}

@@ -1,0 +1,21 @@
+{
+  "name": "constui",
+  "version": "1.1.20",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[B\u001b[B\u001b[A\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D"
+  ],
+  "author": "farm",
+  "license": "ISC",
+  "description": "修改了部分样式",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
